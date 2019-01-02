@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testcase status="Not Started">
+    <id>1234</id>
+    <summary>This is test summary</summary>
+    <description>This is optional</description>
+    <steps>
+        <step id="0" status="Not Started">
+            <action event="open" by="title" locator="title" name="system-url" value="http://www.blazedemo.com">Launch Blazedemo</action>
+        </step>
+        <step id="1" status="Not Started">
+            <action event="selectByText" by="name" locator="fromPort" name="from-port" value="Philadelphia">Select From Port</action>
+            <action event="selectByText" by="name" locator="toPort" name="from-port" value="London">Select To Port</action>
+            <action event="click" by="css" locator="input[value='Find Flights']" name="find-flights-button">Click Find Flights button</action>
+        </step>
+        <step id="2" status="Not Started">
+            <action event="verifyTextEqual" by="css" locator="body > div.container > h3" name="verify-header" value="Flights from Philadelphia to London: ">Verify header text</action>
+        </step>
+        <step id="3" status="Not Started">
+            <action event="click" by="css" locator="body > div.container > table > tbody > tr:nth-child(1) > td:nth-child(2) > input" name="check-flight">Select Flight</action>
+            <action event="verifyTextEqual" by="css" locator="body > div.container > h2" name="verify-header" value="Your flight from Philadelphia to London has been reserved.">Verify header text</action>
+            <action event="table-click" by="table-css" locator="table(body > div.container > table);row(tbody > tr);column(Choose[td > input],flight[td],airline[td],departs[td],arrives[td],price[td])" name="click-element" value="Choose,airline[Virgin America]">Click Choose Element: Virgin America</action>
+        </step>
+    </steps>
+</testcase>

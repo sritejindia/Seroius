@@ -1,0 +1,145 @@
+
+2019-01-01T22:12:35.610963: **************************************************
+2019-01-01T22:12:35.644827: Found testcase :1234 : This is test summary
+2019-01-01T22:12:35.670257: Number of steps: 4
+2019-01-01T22:12:35.675669: Current status is :Not Started
+2019-01-01T22:12:35.676712: Executing step: 0
+2019-01-01T22:12:35.699821: Executing action: system-url
+2019-01-01T22:12:55.524246: Initiating a new web driver instance.
+2019-01-01T22:12:58.718556: Step 0 status is Passed
+2019-01-01T22:12:58.720918: Executing step: 1
+2019-01-01T22:12:58.721452: Executing action: from-port
+2019-01-01T22:12:58.923321: Selected dropdown text:Philadelphia
+2019-01-01T22:12:58.923705: Executing action: from-port
+2019-01-01T22:12:58.980472: Selected dropdown text:London
+2019-01-01T22:12:58.980999: Executing action: find-flights-button
+2019-01-01T22:12:59.036165: Performed click:find-flights-button
+2019-01-01T22:12:59.037020: Step 1 status is Passed
+2019-01-01T22:12:59.038972: Executing step: 2
+2019-01-01T22:12:59.040205: Executing action: verify-header
+2019-01-01T22:13:03.090514: Step 2 status is Passed
+2019-01-01T22:13:03.090952: Executing step: 3
+2019-01-01T22:13:03.091959: Executing action: check-flight
+2019-01-01T22:13:03.130008: Performed click:check-flight
+2019-01-01T22:13:03.130586: Executing action: verify-header
+2019-01-01T22:13:07.165297: Executing action: click-element
+2019-01-01T22:13:07.166112: t
+2019-01-01T22:13:07.166771: a
+2019-01-01T22:13:07.167107: b
+2019-01-01T22:13:07.167447: Step 3 status is Passed
+2019-01-01T22:13:07.168090: Final status is :Passed
+2019-01-01T22:13:07.293933: Closing the browser
+2019-01-01T22:14:48.840712: **************************************************
+2019-01-01T22:14:48.862029: Found testcase :1234 : This is test summary
+2019-01-01T22:14:48.870875: Number of steps: 4
+2019-01-01T22:14:48.875729: Current status is :Not Started
+2019-01-01T22:14:48.876709: Executing step: 0
+2019-01-01T22:14:48.877504: Executing action: system-url
+2019-01-01T22:14:51.764640: Initiating a new web driver instance.
+2019-01-01T22:14:54.818090: Step 0 status is Passed
+2019-01-01T22:14:54.818608: Executing step: 1
+2019-01-01T22:14:54.819485: Executing action: from-port
+2019-01-01T22:14:54.912114: Selected dropdown text:Philadelphia
+2019-01-01T22:14:54.912527: Executing action: from-port
+2019-01-01T22:14:54.978202: Selected dropdown text:London
+2019-01-01T22:14:54.978623: Executing action: find-flights-button
+2019-01-01T22:14:55.023436: Performed click:find-flights-button
+2019-01-01T22:14:55.023976: Step 1 status is Passed
+2019-01-01T22:14:55.024977: Executing step: 2
+2019-01-01T22:14:55.025476: Executing action: verify-header
+2019-01-01T22:14:59.079151: Step 2 status is Passed
+2019-01-01T22:14:59.081615: Executing step: 3
+2019-01-01T22:14:59.081947: Executing action: check-flight
+2019-01-01T22:14:59.119960: Performed click:check-flight
+2019-01-01T22:14:59.120472: Executing action: verify-header
+2019-01-01T22:15:03.154183: Executing action: click-element
+2019-01-01T22:15:39.139902: t
+2019-01-01T22:15:39.141252: a
+2019-01-01T22:15:39.142334: b
+2019-01-01T22:15:39.143558: Step 3 status is Passed
+2019-01-01T22:15:39.146154: Final status is :Passed
+2019-01-01T22:15:39.256371: Closing the browser
+2019-01-01T22:16:16.116283: **************************************************
+2019-01-01T22:16:16.140329: Found testcase :1234 : This is test summary
+2019-01-01T22:16:16.147697: Number of steps: 4
+2019-01-01T22:16:16.151497: Current status is :Not Started
+2019-01-01T22:16:16.160909: Executing step: 0
+2019-01-01T22:16:16.161661: Executing action: system-url
+2019-01-01T22:16:19.138848: Initiating a new web driver instance.
+2019-01-01T22:16:22.538974: Step 0 status is Passed
+2019-01-01T22:16:22.539420: Executing step: 1
+2019-01-01T22:16:22.540324: Executing action: from-port
+2019-01-01T22:16:22.639116: Selected dropdown text:Philadelphia
+2019-01-01T22:16:22.639545: Executing action: from-port
+2019-01-01T22:16:22.692947: Selected dropdown text:London
+2019-01-01T22:16:22.693406: Executing action: find-flights-button
+2019-01-01T22:16:22.738816: Performed click:find-flights-button
+2019-01-01T22:16:22.739414: Step 1 status is Passed
+2019-01-01T22:16:22.740274: Executing step: 2
+2019-01-01T22:16:22.741334: Executing action: verify-header
+2019-01-01T22:16:26.793253: Step 2 status is Passed
+2019-01-01T22:16:26.793557: Executing step: 3
+2019-01-01T22:16:26.794825: Executing action: check-flight
+2019-01-01T22:16:26.832843: Performed click:check-flight
+2019-01-01T22:16:26.833326: Executing action: verify-header
+2019-01-01T22:16:30.868515: Executing action: click-element
+2019-01-01T22:16:30.875708: t
+2019-01-01T22:16:30.876178: a
+2019-01-01T22:16:30.877228: b
+2019-01-01T22:16:30.877746: Step 3 status is Passed
+2019-01-01T22:16:30.878621: Final status is :Passed
+2019-01-01T22:16:30.994914: Closing the browser
+2019-01-01T22:16:53.905017: **************************************************
+2019-01-01T22:16:53.932494: Found testcase :1234 : This is test summary
+2019-01-01T22:16:53.970503: Number of steps: 4
+2019-01-01T22:16:53.976226: Current status is :Not Started
+2019-01-01T22:16:53.979: Executing step: 0
+2019-01-01T22:16:53.980357: Executing action: system-url
+2019-01-01T22:16:56.848314: Initiating a new web driver instance.
+2019-01-01T22:16:59.907769: Step 0 status is Passed
+2019-01-01T22:16:59.908169: Executing step: 1
+2019-01-01T22:16:59.909263: Executing action: from-port
+2019-01-01T22:17:00.007457: Selected dropdown text:Philadelphia
+2019-01-01T22:17:00.008226: Executing action: from-port
+2019-01-01T22:17:00.066950: Selected dropdown text:London
+2019-01-01T22:17:00.067428: Executing action: find-flights-button
+2019-01-01T22:17:00.117202: Performed click:find-flights-button
+2019-01-01T22:17:00.117866: Step 1 status is Passed
+2019-01-01T22:17:00.118919: Executing step: 2
+2019-01-01T22:17:00.119805: Executing action: verify-header
+2019-01-01T22:17:04.176845: Step 2 status is Passed
+2019-01-01T22:17:04.177265: Executing step: 3
+2019-01-01T22:17:04.178325: Executing action: check-flight
+2019-01-01T22:17:04.216760: Performed click:check-flight
+2019-01-01T22:17:04.217369: Executing action: verify-header
+2019-01-01T22:17:08.250828: Executing action: click-element
+2019-01-01T22:18:09.551488: t
+2019-01-01T22:18:09.552444: a
+2019-01-01T22:18:09.554875: b
+2019-01-01T22:18:09.555986: Step 3 status is Passed
+2019-01-01T22:18:09.557587: Final status is :Passed
+2019-01-01T22:18:09.678499: Closing the browser
+2019-01-01T22:18:28.246494: **************************************************
+2019-01-01T22:18:28.298163: Found testcase :1234 : This is test summary
+2019-01-01T22:18:28.330422: Number of steps: 4
+2019-01-01T22:18:28.336163: Current status is :Not Started
+2019-01-01T22:18:28.337202: Executing step: 0
+2019-01-01T22:18:28.340552: Executing action: system-url
+2019-01-01T22:18:31.518493: Initiating a new web driver instance.
+2019-01-01T22:18:34.510003: Step 0 status is Passed
+2019-01-01T22:18:34.511385: Executing step: 1
+2019-01-01T22:18:34.512365: Executing action: from-port
+2019-01-01T22:18:34.602806: Selected dropdown text:Philadelphia
+2019-01-01T22:18:34.603700: Executing action: from-port
+2019-01-01T22:18:34.663721: Selected dropdown text:London
+2019-01-01T22:18:34.664569: Executing action: find-flights-button
+2019-01-01T22:18:34.722218: Performed click:find-flights-button
+2019-01-01T22:18:34.722976: Step 1 status is Passed
+2019-01-01T22:18:34.723858: Executing step: 2
+2019-01-01T22:18:34.724419: Executing action: verify-header
+2019-01-01T22:18:38.779182: Step 2 status is Passed
+2019-01-01T22:18:38.779555: Executing step: 3
+2019-01-01T22:18:38.780617: Executing action: check-flight
+2019-01-01T22:18:38.818100: Performed click:check-flight
+2019-01-01T22:18:38.818941: Executing action: verify-header
+2019-01-01T22:18:42.855297: Executing action: click-element

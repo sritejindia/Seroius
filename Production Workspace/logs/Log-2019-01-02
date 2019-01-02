@@ -1,0 +1,158 @@
+
+2019-01-02T07:00:45.658462: table(body > div.container > table)
+2019-01-02T07:00:46.161450: row(tbody > tr)
+2019-01-02T07:00:48.073334: column(Choose[td > input],flight[td],airline[td],departs[td],arrives[td],price[td])
+2019-01-02T07:00:52.235699: Step 3 status is Passed
+2019-01-02T07:00:54.519681: Final status is :Passed
+2019-01-02T07:02:09.333897: Closing the browser
+2019-01-02T07:47:57.640290: **************************************************
+2019-01-02T07:47:57.656042: Found testcase :1234 : This is test summary
+2019-01-02T07:47:57.662757: Number of steps: 4
+2019-01-02T07:47:57.667904: Current status is :Not Started
+2019-01-02T07:47:57.668774: Executing step: 0
+2019-01-02T07:47:57.670025: Executing action: system-url
+2019-01-02T07:47:59.996088: Initiating a new web driver instance.
+2019-01-02T07:48:03.228370: Step 0 status is Passed
+2019-01-02T07:48:03.228800: Executing step: 1
+2019-01-02T07:48:03.229919: Executing action: from-port
+2019-01-02T07:48:03.511870: Selected dropdown text:Philadelphia
+2019-01-02T07:48:03.512943: Executing action: from-port
+2019-01-02T07:48:03.569913: Selected dropdown text:London
+2019-01-02T07:48:03.570457: Executing action: find-flights-button
+2019-01-02T07:48:03.622034: Performed click:find-flights-button
+2019-01-02T07:48:03.622613: Step 1 status is Passed
+2019-01-02T07:48:03.623761: Executing step: 2
+2019-01-02T07:48:03.624722: Executing action: verify-header
+2019-01-02T07:48:07.678373: Step 2 status is Passed
+2019-01-02T07:48:07.678684: Executing step: 3
+2019-01-02T07:48:07.679865: Executing action: check-flight
+2019-01-02T07:48:07.719348: Performed click:check-flight
+2019-01-02T07:48:07.719966: Executing action: verify-header
+2019-01-02T07:48:11.756997: Executing action: click-element
+2019-01-02T07:48:11.757654: table(body > div.container > table)
+2019-01-02T07:48:11.758664: row(tbody > tr)
+2019-01-02T07:48:11.759105: column(Choose[td > input],flight[td],airline[td],departs[td],arrives[td],price[td])
+2019-01-02T07:48:11.760075: Step 3 status is Passed
+2019-01-02T07:48:11.760862: Final status is :Passed
+2019-01-02T07:48:11.882809: Closing the browser
+2019-01-02T07:48:50.874508: **************************************************
+2019-01-02T07:48:50.903354: Found testcase :1234 : This is test summary
+2019-01-02T07:48:50.909977: Number of steps: 4
+2019-01-02T07:48:50.922074: Current status is :Not Started
+2019-01-02T07:48:50.923099: Executing step: 0
+2019-01-02T07:48:50.937090: Executing action: system-url
+2019-01-02T07:48:53.899869: Initiating a new web driver instance.
+2019-01-02T07:48:56.915902: Step 0 status is Passed
+2019-01-02T07:48:56.920097: Executing step: 1
+2019-01-02T07:48:56.920500: Executing action: from-port
+2019-01-02T07:48:57.008328: Selected dropdown text:Philadelphia
+2019-01-02T07:48:57.009593: Executing action: from-port
+2019-01-02T07:48:57.067402: Selected dropdown text:London
+2019-01-02T07:48:57.067855: Executing action: find-flights-button
+2019-01-02T07:48:57.113756: Performed click:find-flights-button
+2019-01-02T07:48:57.114303: Step 1 status is Passed
+2019-01-02T07:48:57.115454: Executing step: 2
+2019-01-02T07:48:57.116281: Executing action: verify-header
+2019-01-02T07:49:01.174175: Step 2 status is Passed
+2019-01-02T07:49:01.174495: Executing step: 3
+2019-01-02T07:49:01.175477: Executing action: check-flight
+2019-01-02T07:49:01.212037: Performed click:check-flight
+2019-01-02T07:49:01.212412: Executing action: verify-header
+2019-01-02T07:49:05.244760: Executing action: click-element
+2019-01-02T07:49:05.245101: table(body > div.container > table)
+2019-01-02T07:49:05.246086: row(tbody > tr)
+2019-01-02T07:49:05.246389: column(Choose[td > input],flight[td],airline[td],departs[td],arrives[td],price[td])
+2019-01-02T07:49:05.247152: Step 3 status is Passed
+2019-01-02T07:49:05.247750: Final status is :Passed
+2019-01-02T07:49:05.350179: Closing the browser
+2019-01-02T07:49:37.703136: **************************************************
+2019-01-02T07:49:37.736216: Found testcase :1234 : This is test summary
+2019-01-02T07:49:37.742426: Number of steps: 4
+2019-01-02T07:49:37.751328: Current status is :Not Started
+2019-01-02T07:49:37.753649: Executing step: 0
+2019-01-02T07:49:37.754403: Executing action: system-url
+2019-01-02T07:49:40.640311: Initiating a new web driver instance.
+2019-01-02T07:49:43.669340: Step 0 status is Passed
+2019-01-02T07:49:43.669664: Executing step: 1
+2019-01-02T07:49:43.670562: Executing action: from-port
+2019-01-02T07:49:43.761895: Selected dropdown text:Philadelphia
+2019-01-02T07:49:43.762312: Executing action: from-port
+2019-01-02T07:49:43.820715: Selected dropdown text:London
+2019-01-02T07:49:43.821356: Executing action: find-flights-button
+2019-01-02T07:49:43.865900: Performed click:find-flights-button
+2019-01-02T07:49:43.866758: Step 1 status is Passed
+2019-01-02T07:49:43.867718: Executing step: 2
+2019-01-02T07:49:43.868146: Executing action: verify-header
+2019-01-02T07:49:47.921160: Step 2 status is Passed
+2019-01-02T07:49:47.921481: Executing step: 3
+2019-01-02T07:49:47.922706: Executing action: check-flight
+2019-01-02T07:49:47.959830: Performed click:check-flight
+2019-01-02T07:49:47.960255: Executing action: verify-header
+2019-01-02T07:49:51.993194: Executing action: click-element
+2019-01-02T07:49:51.993521: table(body > div.container > table)
+2019-01-02T07:49:51.994674: row(tbody > tr)
+2019-01-02T07:49:51.995082: column(Choose[td > input],flight[td],airline[td],departs[td],arrives[td],price[td])
+2019-01-02T07:49:51.996943: Step 3 status is Passed
+2019-01-02T07:49:51.997669: Final status is :Passed
+2019-01-02T07:49:52.104513: Closing the browser
+2019-01-02T07:50:14.965326: **************************************************
+2019-01-02T07:50:14.995176: Found testcase :1234 : This is test summary
+2019-01-02T07:50:15.006154: Number of steps: 4
+2019-01-02T07:50:15.016106: Current status is :Not Started
+2019-01-02T07:50:15.017141: Executing step: 0
+2019-01-02T07:50:15.020557: Executing action: system-url
+2019-01-02T07:50:17.972581: Initiating a new web driver instance.
+2019-01-02T07:50:20.923637: Step 0 status is Passed
+2019-01-02T07:50:20.924061: Executing step: 1
+2019-01-02T07:50:20.925156: Executing action: from-port
+2019-01-02T07:50:21.029803: Selected dropdown text:Philadelphia
+2019-01-02T07:50:21.030226: Executing action: from-port
+2019-01-02T07:50:21.086690: Selected dropdown text:London
+2019-01-02T07:50:21.087157: Executing action: find-flights-button
+2019-01-02T07:50:21.131415: Performed click:find-flights-button
+2019-01-02T07:50:21.131792: Step 1 status is Passed
+2019-01-02T07:50:21.133157: Executing step: 2
+2019-01-02T07:50:21.133791: Executing action: verify-header
+2019-01-02T07:50:25.186877: Step 2 status is Passed
+2019-01-02T07:50:25.187252: Executing step: 3
+2019-01-02T07:50:25.188445: Executing action: check-flight
+2019-01-02T07:50:25.225856: Performed click:check-flight
+2019-01-02T07:50:25.226371: Executing action: verify-header
+2019-01-02T07:50:29.259227: Executing action: click-element
+2019-01-02T07:50:29.259569: table(body > div.container > table)
+2019-01-02T07:50:29.260524: row(tbody > tr)
+2019-01-02T07:50:29.260906: column(Choose[td > input],flight[td],airline[td],departs[td],arrives[td],price[td])
+2019-01-02T07:51:01.168957: Step 3 status is Passed
+2019-01-02T07:51:01.176795: Final status is :Passed
+2019-01-02T07:51:01.357671: Closing the browser
+2019-01-02T08:17:31.864742: **************************************************
+2019-01-02T08:17:31.892846: Found testcase :1234 : This is test summary
+2019-01-02T08:17:31.902424: Number of steps: 4
+2019-01-02T08:17:31.906845: Current status is :Not Started
+2019-01-02T08:17:31.907912: Executing step: 0
+2019-01-02T08:17:31.908791: Executing action: system-url
+2019-01-02T08:17:34.182677: Initiating a new web driver instance.
+2019-01-02T08:17:37.499293: Step 0 status is Passed
+2019-01-02T08:17:37.499620: Executing step: 1
+2019-01-02T08:17:37.500557: Executing action: from-port
+2019-01-02T08:17:37.597962: Selected dropdown text:Philadelphia
+2019-01-02T08:17:37.598298: Executing action: from-port
+2019-01-02T08:17:37.656243: Selected dropdown text:London
+2019-01-02T08:17:37.656667: Executing action: find-flights-button
+2019-01-02T08:17:37.702238: Performed click:find-flights-button
+2019-01-02T08:17:37.702771: Step 1 status is Passed
+2019-01-02T08:17:37.703671: Executing step: 2
+2019-01-02T08:17:37.704557: Executing action: verify-header
+2019-01-02T08:17:41.755277: Step 2 status is Passed
+2019-01-02T08:17:41.755582: Executing step: 3
+2019-01-02T08:17:41.756653: Executing action: check-flight
+2019-01-02T08:17:41.795151: Performed click:check-flight
+2019-01-02T08:17:41.795769: Executing action: verify-header
+2019-01-02T08:17:45.832429: Executing action: click-element
+2019-01-02T08:17:45.832885: table(body > div.container > table)
+2019-01-02T08:17:45.833922: row(tbody > tr)
+2019-01-02T08:17:45.834355: column(Choose[td > input],flight[td],airline[td],departs[td],arrives[td],price[td])
+2019-01-02T08:17:45.835214: Star is : body > div.container > table
+2019-01-02T08:17:45.835586: Step 3 status is Passed
+2019-01-02T08:17:45.837097: Final status is :Passed
+2019-01-02T08:17:45.947608: Closing the browser
